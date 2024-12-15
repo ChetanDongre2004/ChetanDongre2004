@@ -1,30 +1,91 @@
-![logo](https://github.com/ChetanDongre2004/ChetanDongre2004/blob/main/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Chetan Dongre</h1>
-<h3 align="center">A passionate frontend developer from In| DSA & C++ Enthusiast | Tech Explorer | Passionate Programmer | Always Learningdia</h3>
-<img align ="right" alt="coding" width="400"src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+# Hi 👋, I'm Chetan Dongre  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chetandongre2004&label=Profile%20views&color=0e75b6&style=flat" alt="chetandongre2004" /> </p>
+![Hello World GIF](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/HelloWorld.gif)
 
-- 🌱 I’m currently learning **DSA,React,Data Analytics**
+🎓 **3rd Year Computer Science Engineering Student** at St. Vincent Palloti College of Engineering.  
+💻 A passionate frontend developer, DSA & C++ enthusiast, and tech explorer eager to learn and grow in the tech world.  
 
-- 💬 Ask me about **DSA,C++**
+---
 
-- 📫 How to reach me **www.linkedin.com/in/ chetan-dongre-cs**
+### 🌱 **I’m currently learning:**
+- 🔗 Data Structures & Algorithms (DSA)
+- ⚛️ React.js for Frontend Development
+- 📊 Data Analytics & Visualization  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chetan dongre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chetan dongre" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/chetandongre20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chetandongre20" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/chetan dongre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chetan dongre" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chetan2__004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chetan2__004" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/chetandonlit5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chetandonlit5" height="30" width="40" /></a>
-</p>
+![Learning GIF](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/Learning.gif)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chetandongre2004&show_icons=true&locale=en&layout=compact" alt="chetandongre2004" /></p>
+### 💬 **Ask me about:**
+- 📌 DSA  
+- 📌 C++  
+- 📌 Frontend Development  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetandongre2004&show_icons=true&locale=en" alt="chetandongre2004" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetandongre2004&" alt="chetandongre2004" /></p>
+### 📫 **How to reach me:**
+[![LinkedIn](https://img.shields.io/badge/-Chetan%20Dongre-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-dongre-cs)  
+[![GitHub](https://img.shields.io/badge/-ChetanDongre-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chetandongre2004)  
+
+---
+
+### 🛠️ **Languages and Tools:**
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+---
+
+### 🔥 **GitHub Stats:**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chetandongre2004&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetandongre2004&theme=radical" alt="GitHub Streak Stats" height="160" />
+</div>
+
+---
+
+### 📊 **Top Languages:**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetandongre2004&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+### 📈 **Contribution Graph:**
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=chetandongre2004&theme=redical" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+### 🏆 **GitHub Trophies:**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chetandongre2004&theme=radical&row=2&column=3" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 💻 **Cool Coding GIFs**  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/Developer.gif" width="400" height="200" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/Code.gif" width="400" height="200" />
+</div>
+
+---
+
+### 📦 **Popular Repositories:**
+
+- [![Repo Name](https://img.shields.io/badge/-DSA%20Practice-blue?style=for-the-badge&logo=github)](https://github.com/chetandongre2004/DSA-Practice)
+- [![Repo Name](https://img.shields.io/badge/-React%20Portfolio-lightgrey?style=for-the-badge&logo=react)](https://github.com/chetandongre2004/React-Portfolio)
+- [![Repo Name](https://img.shields.io/badge/-Python%20Data%20Analysis-green?style=for-the-badge&logo=python)](https://github.com/chetandongre2004/Python-Data-Analysis)
+
+---
+
+### 📌 **Fun Fact:**  
+*I'm always debugging my life, one step at a time!*
