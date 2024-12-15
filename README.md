@@ -2,19 +2,19 @@
 
 # Hi 👋, I'm Chetan Dongre  
 
-![Hello World GIF](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/HelloWorld.gif)
-
 🎓 **3rd Year Computer Science Engineering Student** at St. Vincent Palloti College of Engineering.  
 💻 A passionate frontend developer, DSA & C++ enthusiast, and tech explorer eager to learn and grow in the tech world.  
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="GitHub Banner" width="100%" />
+</div>
 
 ---
 
 ### 🌱 **I’m currently learning:**
-- 🔗 Data Structures & Algorithms (DSA)
-- ⚛️ React.js for Frontend Development
+- 🔗 Data Structures & Algorithms (DSA)  
+- ⚛️ React.js for Frontend Development  
 - 📊 Data Analytics & Visualization  
-
-![Learning GIF](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/Learning.gif)
 
 ---
 
@@ -59,9 +59,9 @@
 
 ---
 
-### 📈 **Contribution Graph:**
+### 💻 **Cool Coding GIFs**  
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=chetandongre2004&theme=redical" alt="GitHub Activity Graph" />
+  <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="600" height="300" alt="Cool Coding GIF" />
 </div>
 
 ---
@@ -69,14 +69,6 @@
 ### 🏆 **GitHub Trophies:**
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chetandongre2004&theme=radical&row=2&column=3" alt="GitHub Trophies" />
-</div>
-
----
-
-### 💻 **Cool Coding GIFs**  
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/Developer.gif" width="400" height="200" />
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/Code.gif" width="400" height="200" />
 </div>
 
 ---
